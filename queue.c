@@ -45,10 +45,6 @@ int main()
 {
         enqueue(45);
         enqueue(45);
-        enqueue(45);
-        enqueue(45);
-        enqueue(45);
-        enqueue(45);
-        enqueue(45);
+      
     return 0;
 }
