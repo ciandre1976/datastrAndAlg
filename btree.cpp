@@ -61,7 +61,6 @@ void Postorder(Node* root)
     Postorder(root->left);
     Postorder(root->right);
     std::cout << root->data<<std::endl;
-
 }
 
 int main()
