@@ -27,8 +27,6 @@ void Reverse(char *C,int n)
         C[i] = Stack.top();
         Stack.pop();
     }
-
-   
 }
 
 int main()
